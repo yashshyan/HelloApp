@@ -1,4 +1,4 @@
-public class HelloApp {
+public class HelloApp {
     public static void main(String[] args) {
 
         if (args.length > 0) {
